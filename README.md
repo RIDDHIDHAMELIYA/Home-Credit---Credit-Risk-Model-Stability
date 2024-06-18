@@ -16,3 +16,6 @@ Founded in 1997, competition host Home Credit is an international consumer finan
 Your work in helping to assess potential clients' default risks will enable consumer finance providers to accept more loan applications. This may improve the lives of people who have historically been denied due to a lack of credit history.
 
 > Finial group project for my data Science Bootcamp (Spiced Academy)
+
+# Tableau Dashboard for EDA
+![Dashboard](https://github.com/RIDDHIDHAMELIYA/Home-Credit-Credit-Risk-Model-Stability/blob/main/Dashboard-EDA.png)
